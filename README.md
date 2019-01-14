@@ -1,1 +1,3 @@
 # devspaceangola-teste
+
+Trata-se de um projecto cujo foco é a criação de um ecossistema para desenvolvedores em angola e a colaboração entre eles...
